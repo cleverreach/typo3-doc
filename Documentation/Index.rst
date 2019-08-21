@@ -53,7 +53,7 @@ CleverReach® Email Newsletter Extension for Typo3
 	:maxdepth: 3
 	:titlesonly:
 
-		Introduction/Index
-		Installation/Index
-		UsersManual/Index
-		AdministratorManual/Index
+	Introduction/Index
+	Installation/Index
+	UsersManual/Index
+	AdministratorManual/Index
