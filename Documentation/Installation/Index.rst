@@ -30,7 +30,7 @@ The CleverReach® extension appears on the list of your installed extensions. Yo
 .. figure:: ../Images/Installation/typo3_en4.png
 	:width: 500px
 
-**Step 3:** To configure CleverReach®, go to the list of your installed extensions and click on the “Configure” icon.
+**Step 3:** To configure CleverReach® on TYPO3 v7.x or v8.x, go to the list of your installed extensions and click on the “Configure” icon.
 
 .. figure:: ../Images/Installation/typo3_en5.png
 	:width: 500px
@@ -38,4 +38,24 @@ The CleverReach® extension appears on the list of your installed extensions. Yo
 To synchronize your existing frontend users as subscribers please check ‘syncUsersAsSubscribers’.
 
 .. figure:: ../Images/Installation/typo3_en6.png
+	:width: 500px
+
+To configure CleverReach extension on TYPO3 v9.x, please click on the 'Settings' tab in the sidebar menu, under the “ADMIN TOOLS” section.
+
+.. figure:: ../Images/Installation/typo3_en7.png
+	:width: 500px
+
+Choose 'Extension configuration'
+
+.. figure:: ../Images/Installation/typo3_en8.png
+	:width: 500px
+
+From the extension list, click on the “official_cleverreach“.
+
+.. figure:: ../Images/Installation/typo3_en9.png
+	:width: 500px
+
+To synchronize existing frontend users as subscribers please check “syncUsersAsSubscribers“ field.
+
+.. figure:: ../Images/Installation/typo3_en10.png
 	:width: 500px
