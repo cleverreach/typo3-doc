@@ -29,7 +29,7 @@ CleverReach® Email Newsletter Extension for Typo3
 		newsletter, email, cleverreach, api, registration, automation, marketing
 
 	:Copyright:
-		2019
+		2020
 
 	:Author:
 		CleverReach®

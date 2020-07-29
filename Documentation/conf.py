@@ -47,7 +47,7 @@ master_doc = 'Index'
 
 # General information about the project.
 project = 'CleverReach'
-copyright = '2019, CleverReach GmbH & Co. KG'
+copyright = '2020, CleverReach GmbH & Co. KG'
 author = 'CleverReach GmbH & Co. KG'
 
 # The version info for the project you're documenting, acts as replacement for

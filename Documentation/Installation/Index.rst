@@ -40,7 +40,7 @@ To synchronize your existing frontend users as subscribers please check ‘syncU
 .. figure:: ../Images/Installation/typo3_en6.png
 	:width: 500px
 
-To configure CleverReach extension on TYPO3 v9.x, please click on the 'Settings' tab in the sidebar menu, under the “ADMIN TOOLS” section.
+To configure CleverReach extension on TYPO3 v9.x or v10.x, please click on the 'Settings' tab in the sidebar menu, under the “ADMIN TOOLS” section.
 
 .. figure:: ../Images/Installation/typo3_en7.png
 	:width: 500px
